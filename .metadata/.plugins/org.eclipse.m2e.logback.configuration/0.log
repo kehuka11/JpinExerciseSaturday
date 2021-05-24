@@ -1,0 +1,69 @@
+2021-05-24 21:57:37,137 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-05-24 21:58:44,779 [Worker-5: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloJDBC:HelloJDBC:0.0.1-SNAPSHOT @ /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloJDBC/pom.xml.
+2021-05-24 21:58:46,175 [Worker-5: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloJDBC/src
+2021-05-24 21:58:46,177 [Worker-5: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /HelloJDBC/src/test/java because it overlaps with /HelloJDBC/src
+2021-05-24 21:58:46,323 [Worker-5: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2021-05-24 21:58:53,517 [Worker-1: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:58:53,519 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloJDBC/src/main/resources
+2021-05-24 21:58:53,522 [Worker-1: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:58:53,524 [Worker-1: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloJDBC/src/test/resources
+2021-05-24 21:59:19,977 [Worker-10: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Keiziban:Keiziban:0.0.1-SNAPSHOT @ /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/pom.xml.
+2021-05-24 21:59:22,774 [Worker-10: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Keiziban/src/main/java
+2021-05-24 21:59:22,775 [Worker-10: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Keiziban/src/test/java
+2021-05-24 21:59:24,200 [Worker-10: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2021-05-24 21:59:24,822 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:59:24,824 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/main/resources
+2021-05-24 21:59:24,827 [Worker-8: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:59:24,828 [Worker-8: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/test/resources
+2021-05-24 21:59:38,165 [Worker-12: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Todo:Todo:0.0.1-SNAPSHOT @ /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/pom.xml.
+2021-05-24 21:59:38,267 [Worker-12: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Todo/src/main/java
+2021-05-24 21:59:38,268 [Worker-12: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Todo/src/test/java
+2021-05-24 21:59:57,575 [Worker-12: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2021-05-24 21:59:58,012 [Worker-7: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:59:58,013 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/main/resources
+2021-05-24 21:59:58,017 [Worker-7: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 21:59:58,018 [Worker-7: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/test/resources
+2021-05-24 22:00:09,461 [Worker-2: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HelloMybatis:HelloMybatis:0.0.1-SNAPSHOT @ /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/pom.xml.
+2021-05-24 22:00:09,516 [Worker-2: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HelloMybatis/src
+2021-05-24 22:00:09,517 [Worker-2: Maven プロジェクトのインポート中] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /HelloMybatis/src/test/java because it overlaps with /HelloMybatis/src
+2021-05-24 22:00:09,549 [Worker-2: Maven プロジェクトのインポート中] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2021-05-24 22:00:10,084 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:10,085 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/main/resources
+2021-05-24 22:00:10,088 [Worker-15: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:10,091 [Worker-15: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/test/resources
+2021-05-24 22:00:23,209 [Worker-12: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:23,210 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/main/resources
+2021-05-24 22:00:23,214 [Worker-12: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:23,215 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/test/resources
+2021-05-24 22:00:23,239 [Worker-12: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:23,240 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/main/resources
+2021-05-24 22:00:23,242 [Worker-12: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:00:23,243 [Worker-12: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/test/resources
+2021-05-24 22:12:34,871 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,873 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloJDBC/src/main/resources
+2021-05-24 22:12:34,876 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,878 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloJDBC/src/test/resources
+2021-05-24 22:12:34,887 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,888 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/main/resources
+2021-05-24 22:12:34,894 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,895 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/test/resources
+2021-05-24 22:12:34,907 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,908 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/main/resources
+2021-05-24 22:12:34,912 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,913 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Keiziban/src/test/resources
+2021-05-24 22:12:34,930 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,931 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/main/resources
+2021-05-24 22:12:34,935 [Worker-30: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:12:34,936 [Worker-30: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/test/resources
+2021-05-24 22:14:17,412 [Worker-35: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:14:17,416 [Worker-35: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/main/resources
+2021-05-24 22:14:17,417 [Worker-35: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:14:17,418 [Worker-35: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/test/resources
+2021-05-24 22:14:23,744 [Worker-33: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:14:23,745 [Worker-33: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/main/resources
+2021-05-24 22:14:23,747 [Worker-33: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:14:23,748 [Worker-33: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/Todo/src/test/resources
+2021-05-24 22:17:44,673 [Worker-35: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:17:44,675 [Worker-35: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/main/resources
+2021-05-24 22:17:44,677 [Worker-35: ビルド] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-05-24 22:17:44,678 [Worker-35: ビルド] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/marukawayuuya/Desktop/Jpin/JpinExerciseSaturday/HelloMybatis/src/test/resources
